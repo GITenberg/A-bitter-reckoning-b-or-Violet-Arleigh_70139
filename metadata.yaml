@@ -1,5 +1,8 @@
 _repo: A-bitter-reckoning-b-or-Violet-Arleigh_70139
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70139-h/images/cover.jpg
 creator:
   author:
     agent_name: Collins, E. Burke, Mrs.
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '43742'
     url: http://www.gutenberg.org/2009/agents/43742
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70139#A-bitter-reckoning-b-or-Violet-Arleigh
 gutenberg_issued: '2023-02-26'
 identifiers:
   gutenberg: '70139'
